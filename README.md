@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,redis,python,bun,npm,git,github,vscode,godot" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,redis,python,bun,npm,git,github,vscode" />
 
 </div>
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -86,39 +86,13 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
+<br>
 
 <div align="center">
 
-<!-- Replace the repository names below with your best projects -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanranjanrath&theme=tokyonight" />
 
-<a href="https://github.com/nayanranjanrath/YOUR_REPO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayanranjanrath&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanranjanrath/YOUR_REPO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayanranjanrath&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanranjanrath/YOUR_REPO_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayanranjanrath&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nayanranjanrath/YOUR_REPO_4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nayanranjanrath&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/nayanranjanrath/nayanranjanrath/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanranjanrath&theme=tokyonight" />
 
 </div>
 
@@ -151,11 +125,15 @@
 
 ---
 
-## 📊 Profile Summary
+## 📊 GitHub Summary
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanranjanrath&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayanranjanrath&theme=tokyonight" />
 
 </div>
 
