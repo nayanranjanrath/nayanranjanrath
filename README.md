@@ -1,170 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,50:6e40c9,100:00C2FF&text=Nayan%20Ranjan%20Rath&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=Full-Stack%20Developer%20|%20Backend%20Enthusiast&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:6e40c9,100:00C2FF&text=Nayan%20Ranjan%20Rath&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer&descAlignY=58" width="100%" />
 
-# 👋 Hi, I'm Nayan Ranjan Rath
+### 🚀 Engineering Scalable Web Applications & Resilient Backend Systems
 
-### Full-Stack Web Developer | Backend Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Node.js+%7C+Express+%7C+Django+%7C+React;RESTful+APIs+%26+Database+Architecture;Authentication+%26+System+Design;Exploring+High-Performance+Backends" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Node.js+%7C+Express.js+%7C+React.js;Building+Scalable+Web+Applications;Backend+Development+Enthusiast;Always+Learning+New+Technologies" />
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=nayanranjanrath&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-💻 Passionate **Full-Stack Web Developer**
-
-⚙️ I enjoy building scalable, secure, and user-friendly web applications that solve real-world problems.
-
-🌐 My expertise spans frontend and backend development—from creating responsive user interfaces to developing robust APIs and backend systems.
-
-🔐 Experienced in building authentication systems, REST APIs, database-driven applications, and backend services.
-
-📚 Continuously learning new technologies and improving my problem-solving skills.
-
-🤝 Open to collaboration, internships, and exciting development opportunities.
-
-🚀 Currently focused on backend development, system design, and scalable web applications.
-
----
-
-## ⚡ Technologies & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,redis,python,bun,npm,git,github,vscode" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MySQL2-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_Prompting-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Authentication-JWT-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend_Development-Node.js-green?style=for-the-badge" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayanranjanrath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanranjanrath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nayanranjanrath&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanranjanrath&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nayanranjanrath&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nayanranjanrath&theme=tokyonight" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Backend Development
-* System Design Fundamentals
-* Redis Caching Strategies
-* Database Optimization
-* Data Structures & Algorithms
-* Scalable Application Architecture
-
----
-
-## 🎯 Areas of Interest
-
-🚀 Full-Stack Web Development
-
-⚙️ Backend Engineering
-
-🗄️ Database Systems
-
-🤖 AI & Prompt Engineering
-
-☁️ Scalable Web Applications
-
-📚 Continuous Learning
-
----
-
-## 📊 GitHub Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayanranjanrath&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nayanranjanrath&theme=tokyonight" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nayan-ranjan-rath-5610b8334/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<a href="https://www.linkedin.com/in/nayan-ranjan-rath-5610b8334/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://github.com/nayanranjanrath">
-<img src="https://skillicons.dev/icons?i=github" height="55" />
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=nayanranjanrath&label=Profile+Views&color=6e40c9&style=flat-square" />
 
 </div>
 
 ---
 
-## 💭 Developer Philosophy
+### 👨‍💻 About Me
 
-> "Great software is not just about making things work—it's about building solutions that are scalable, maintainable, and meaningful."
+- 🛠️ **Backend-Focused Engineer:** Experienced in architecting secure REST APIs, robust authentication (JWT/OAuth), and relational/NoSQL schemas.
+- ⚡ **Core Tech:** Proficient in JavaScript/TypeScript, Python, C++, and modern web ecosystems across Node.js, Express, and Django.
+- 🎯 **Current Focus:** Deep-diving into system design, query optimization, database caching strategies (Redis), and distributed architectures.
+- 🤝 **Open For:** Collaborations on open-source tools, backend infrastructure, and engineering internships.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,bun&theme=dark" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" /> |
+| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" /> |
+| **Tools & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" /> |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nayanranjanrath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanranjanrath&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanranjanrath&theme=tokyonight&hide_border=true" width="97%" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+*"Great software is not just about making things work—it's about building solutions that are scalable, maintainable, and meaningful."*
 
-#### Keep Learning • Keep Building • Keep Improving
+⭐ **Thanks for stopping by!**
 
 </div>
